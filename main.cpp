@@ -20,7 +20,7 @@ int main() {
 
 
     // Mostrar el resultado en consola.
-    cout << "El numero es: " << numero << endl;
+    cout << "El numero " << numero << " tiene:" << endl;
     cout << "Unidades de Mil: " << unidadDeMil << "." << endl;
     cout << "Centenas: " << centena << "." << endl;
     cout << "Decenas: " << decena << "." << endl;
